@@ -187,9 +187,7 @@ The final workbook contains a consolidated **SaaS Customer Intelligence Dashboar
 
 ### Dashboard Screenshot
 
-_Add the dashboard screenshot to the `assets` folder and name it `dashboard.png`._
-
-![CloudFlow SaaS Customer Intelligence Dashboard](assets/dashboard.png)
+![CloudFlow SaaS Customer Intelligence Dashboard](Media/Dashboard_Screenshot.png)
 
 ---
 
