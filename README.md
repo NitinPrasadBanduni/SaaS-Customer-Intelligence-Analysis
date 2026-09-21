@@ -242,3 +242,6 @@ SaaS-Customer-Intelligence-Analysis/
 │
 └── README.md
 ```
+# 👤 Author
+
+**Nitin Prasad**
