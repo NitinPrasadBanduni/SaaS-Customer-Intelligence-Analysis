@@ -244,4 +244,4 @@ SaaS-Customer-Intelligence-Analysis/
 ```
 # 👤 Author
 
-**Nitin Prasad**
+**Nitin Prasad | Data Analyst**
